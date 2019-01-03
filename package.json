@@ -1,0 +1,21 @@
+{
+  "name": "warmup-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice-linked-ist.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkgallaway/warmup-03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkgallaway/warmup-03/issues"
+  },
+  "homepage": "https://github.com/rkgallaway/warmup-03#readme"
+}
